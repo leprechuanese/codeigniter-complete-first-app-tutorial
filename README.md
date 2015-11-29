@@ -1,6 +1,6 @@
-# codeigniter from 
-https://github.com/bcit-ci/CodeIgniter
+codeigniter from 
+#https://github.com/bcit-ci/CodeIgniter
 
-source code for the complete first app 
-tutorial https://codeigniter.com/user_guide/tutorial/index.html
+source code for the complete first app tutorial at
+#https://codeigniter.com/user_guide/tutorial/index.html
 
